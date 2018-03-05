@@ -83,5 +83,12 @@
       "luckpool.org http://luckpool.org",
       "luckpool.org by hellcatz"
     ]
+  },
+  {
+    "poolName": "BTCPrivate.pro",
+    "url": "http://btcprivate.pro",
+    "searchStrings": [
+      "btcprivate.pro"
+    ]
   }
 ]
