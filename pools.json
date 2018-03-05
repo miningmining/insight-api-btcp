@@ -1,7 +1,7 @@
 [
   {
     "poolName": "Bitfly",
-    "url": "https://btcp.flypool.org/",
+    "url": "https://zcash.flypool.org/",
     "searchStrings": [
       "/flypool/"
     ]
@@ -25,6 +25,20 @@
     "url": "https://github.com/z-classic/z-nomp/",
     "searchStrings": [
       "Z-NOMP! https://github.com/joshuayabut/z-nomp"
+    ]
+  },
+  {
+    "poolName": "Bitcoin Private Dev Pool!",
+    "url": "https://pool.btcprivate.org",
+    "searchStrings": [
+      "Bitcoin Private Dev Pool https://pool.btcprivate.org"
+    ]
+  },
+  {
+    "poolName": "ZClassic Donation Fund!",
+    "url": "https://fund.zclassic.org",
+    "searchStrings": [
+      "ZClassic Donation Fund! -- https://fund.zclassic.org"
     ]
   },
   {
