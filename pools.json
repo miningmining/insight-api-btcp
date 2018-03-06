@@ -90,5 +90,10 @@
     "searchStrings": [
       "btcprivate.pro"
     ]
-  }
-]
+  },
+  {
+    "poolName": "Mining Madness",
+    "url": "http://btcp.mining-madness.com",
+    "searchStrings": [
+      "mining-madness.com - https//mining-madness.com"
+    ]
